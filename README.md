@@ -1,4 +1,4 @@
-<h1 align="right">E aí! Eu sou o Matheus! 👋</h1>
+<h1 align="left">E aí! Eu sou o Matheus! 👋</h1>
 
 ###
 
@@ -30,12 +30,14 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=mathpferreira&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=mathpferreira&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathpferreira/mathpferreira/output/pacman-contribution-graph-dark.svg">
