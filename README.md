@@ -69,48 +69,81 @@ Atualmente venho aprofundando meus conhecimentos em **desenvolvimento Full Stack
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ BOO Sportswear
+
+E-commerce full stack para moda esportiva, com frontend, API, banco de dados, integrações e infraestrutura de produção.
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=FFFFFF)
 
 <a href="https://github.com/mathpferreira/boosportswear">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathpferreira&repo=boosportswear&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Abrir BOO Sportswear" />
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Carreiras & Empregos
+
+Projeto voltado a oportunidades, carreira e organização de informações relacionadas ao mercado de trabalho.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Web](https://img.shields.io/badge/Web-0D1117?style=flat-square&logo=googlechrome&logoColor=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
+
 <a href="https://github.com/mathpferreira/carreiras-empregos">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathpferreira&repo=carreiras-empregos&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir Carreiras e Empregos" />
 </a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ MC Turismo
+
+Projeto web desenvolvido para operações e experiências relacionadas a turismo e viagens.
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 <a href="https://github.com/mathpferreira/mcturismo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathpferreira&repo=mcturismo&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Abrir MC Turismo" />
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Ranking GTA
+
+Sistema de ranking desenvolvido para organizar e apresentar dados de forma dinâmica em um projeto ligado à comunidade GTA.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
+
 <a href="https://github.com/mathpferreira/ranking-gta">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathpferreira&repo=ranking-gta&theme=transparent&hide_border=true&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Abrir Ranking GTA" />
 </a>
 
-</div>
-
----
-
-## 🎯 Objetivos atuais
-
-```bash
-matheus@github:~$ cat goals.txt
-
-[01] Aprimorar desenvolvimento Full Stack........ [EM PROGRESSO]
-[02] Evoluir arquitetura de backend............... [EM PROGRESSO]
-[03] Criar automações úteis........................ [ATIVO]
-[04] Explorar IA aplicada ao desenvolvimento...... [ATIVO]
-[05] Evoluir conhecimentos em infraestrutura....... [ATIVO]
-[06] Construir projetos reais...................... [SEMPRE]
-
-matheus@github:~$ _
-```
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mathpferreira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=00D9FF" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpferreira&layout=compact&langs_count=7&theme=transparent&locale=pt-br&hide_border=true&title_color=00D9FF&text_color=C9D1D9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mathpferreira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=00D9FF" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathpferreira&layout=compact&langs_count=7&theme=transparent&locale=pt-br&hide_border=true&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <br/>
@@ -124,15 +157,7 @@ matheus@github:~$ _
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mathpferreira&bg_color=00000000&color=00D9FF&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=mathpferreira&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mathpferreira&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
